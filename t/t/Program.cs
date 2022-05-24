@@ -3,3 +3,4 @@ using t;
 
 Console.WriteLine("Hello, World!");
 Araba araba = new Araba();
+araba.name = "Merceces";
